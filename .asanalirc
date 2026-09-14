@@ -1,1 +1,7 @@
-{"name":"snake-pygame","author":"itsAsanali","language":"js","license":"none","encoding":"UTF-8"}
+{
+    "name": "snake-pygame",
+    "author": "asanaIi",
+    "language": "js",
+    "license": "none",
+    "encoding": "UTF-8"
+}
